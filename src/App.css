@@ -1,3 +1,8 @@
+.selected {
+  text-decoration: underline;
+  text-decoration-color: red;
+}
+
 .App {
   text-align: center;
 }
